@@ -9,7 +9,7 @@ Here are some interpolation of my model:
 ![](https://github.com/JimmyDoan1309/BEGAN---Tensorflow-implementation/blob/master/export/BEGAN/interpolation6.gif?raw=true)
 ![](https://github.com/JimmyDoan1309/BEGAN---Tensorflow-implementation/blob/master/export/BEGAN/interpolation5.gif?raw=true)
 
-I choose \alpha is quite small ( \alpha = 0.3 ) which result in the model is quite overfit in exchange for image quality.
+I choose alpha is quite small ( alpha = 0.3 ) which result in the model is quite overfit in exchange for image quality.
 
 
 
