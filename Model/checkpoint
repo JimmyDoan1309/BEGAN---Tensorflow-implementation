@@ -1,0 +1,6 @@
+model_checkpoint_path: "BEGAN_215.ckpt"
+all_model_checkpoint_paths: "BEGAN_195.ckpt"
+all_model_checkpoint_paths: "BEGAN_200.ckpt"
+all_model_checkpoint_paths: "BEGAN_205.ckpt"
+all_model_checkpoint_paths: "BEGAN_210.ckpt"
+all_model_checkpoint_paths: "BEGAN_215.ckpt"
